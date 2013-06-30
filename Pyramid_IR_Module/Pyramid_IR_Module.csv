@@ -1,0 +1,7 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"Q1";"SOT23";1;"NPN";;;
+2;"R2";"SM0603";1;"82";;;
+3;"R1";"SM0603";1;"820";;;
+4;"D1,D2,D3";"LED-5MM";3;"LED";;;
+5;"MH1";"Mount_Hole";1;"CONN_1";;;
+6;"P1";"grove_4_horizontal";1;"CONN_4";;;

@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-16 BZR 4016)-stable date = 6/30/2013 14:56:35
+
+BeginCmp
+TimeStamp = /51CCF98C;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CCF99B;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CCF9AA;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = LED-5MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CD08C3;
+Reference = MH1;
+ValeurCmp = CONN_1;
+IdModule  = Mount_Hole_M2Screw;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CCF9E6;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = grove_4_horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CCF9B9;
+Reference = Q1;
+ValeurCmp = NPN;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CCF9C8;
+Reference = R1;
+ValeurCmp = 820;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CCF97D;
+Reference = R2;
+ValeurCmp = 82;
+IdModule  = SM0603_Resistor;
+EndCmp
+
+EndListe

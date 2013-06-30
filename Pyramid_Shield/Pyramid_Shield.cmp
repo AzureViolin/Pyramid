@@ -1,0 +1,192 @@
+Cmp-Mod V01 Created by CvPcb (2013-05-16 BZR 4016)-stable date = 6/30/2013 11:13:22
+
+BeginCmp
+TimeStamp = /51C94119;
+Reference = BT1;
+ValeurCmp = BLUETOOTH_MODULE;
+IdModule  = Bluetooth_Module;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94DE3;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94DCA;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CBE5A0;
+Reference = C3;
+ValeurCmp = 0.1uF;
+IdModule  = SM0603_Capa;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C9A2AF;
+Reference = D1;
+ValeurCmp = TVS_DIODE_ESD;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94C9F;
+Reference = D2;
+ValeurCmp = GREEN LED;
+IdModule  = LED-0603-Symbol;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94C90;
+Reference = D3;
+ValeurCmp = RED LED;
+IdModule  = LED-0603-Symbol;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C98AAE;
+Reference = P1;
+ValeurCmp = IR Rec;
+IdModule  = grove_4_vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C98ABD;
+Reference = P2;
+ValeurCmp = Button;
+IdModule  = grove_4_vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C98ADB;
+Reference = P3;
+ValeurCmp = RGB HEX;
+IdModule  = grove_4_vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C9AC59;
+Reference = P4;
+ValeurCmp = GROVE;
+IdModule  = grove_4_vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C98ACC;
+Reference = P5;
+ValeurCmp = IR LED;
+IdModule  = grove_4_vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94FDC;
+Reference = P6;
+ValeurCmp = Metal Shield;
+IdModule  = metal_shield;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CBD5B5;
+Reference = P7;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C9A95C;
+Reference = P8;
+ValeurCmp = CONN_4;
+IdModule  = SIL-4;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CB8D14;
+Reference = P9;
+ValeurCmp = CONN_5;
+IdModule  = SIL-5;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CB8276;
+Reference = Q1;
+ValeurCmp = PNP;
+IdModule  = SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94BEA;
+Reference = Q2;
+ValeurCmp = MOS_DUAL;
+IdModule  = Si5904;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CB8258;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CB86AA;
+Reference = R2;
+ValeurCmp = 10k;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CB8267;
+Reference = R3;
+ValeurCmp = 820;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94DB1;
+Reference = R4;
+ValeurCmp = 1M;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94CAE;
+Reference = R5;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C94CEF;
+Reference = R6;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CBE58C;
+Reference = R7;
+ValeurCmp = 330;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51CBEC0F;
+Reference = R8;
+ValeurCmp = 200;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /51C99AF4;
+Reference = RP1;
+ValeurCmp = 10k;
+IdModule  = RP;
+EndCmp
+
+EndListe
