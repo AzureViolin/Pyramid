@@ -3,7 +3,7 @@
   (general
     (links 9)
     (no_connects 0)
-    (area 218.389999 153.873999 238.810001 163.499001)
+    (area 217.855035 143.665724 255.312915 170.458201)
     (thickness 1.6)
     (drawings 10)
     (tracks 28)
@@ -67,7 +67,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 272400385)
+      (layerselection 284983297)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.150000)
@@ -243,7 +243,7 @@
     (fp_text reference R2 (at 2.032 0.254) (layer F.SilkS)
       (effects (font (size 1 0.7) (thickness 0.15)))
     )
-    (fp_text value 82 (at 3.556 0.254) (layer F.SilkS) hide
+    (fp_text value 82R (at 3.556 0.254) (layer F.SilkS) hide
       (effects (font (size 1 0.7) (thickness 0.15)))
     )
     (fp_line (start -0.50038 -0.6985) (end -1.2065 -0.6985) (layer F.SilkS) (width 0.127))
@@ -274,7 +274,7 @@
     (fp_text reference R1 (at -2.032 0 180) (layer F.SilkS)
       (effects (font (size 1 0.7) (thickness 0.15)))
     )
-    (fp_text value 820 (at -3.81 0 180) (layer F.SilkS) hide
+    (fp_text value 820R (at -3.81 0 180) (layer F.SilkS) hide
       (effects (font (size 1 0.7) (thickness 0.15)))
     )
     (fp_line (start -0.50038 -0.6985) (end -1.2065 -0.6985) (layer F.SilkS) (width 0.127))
@@ -313,7 +313,7 @@
     )
   )
 
-  (module grove_4_horizontal (layer F.Cu) (tedit 51CFD899) (tstamp 51D196BF)
+  (module grove_4_horizontal (layer F.Cu) (tedit 51DC4405) (tstamp 51D196BF)
     (at 227.076 160.274 90)
     (path /51CCF9E6)
     (fp_text reference P1 (at -5.7658 4.9784 180) (layer F.SilkS) hide
@@ -325,7 +325,7 @@
     (fp_text user SIG (at -1.524 10.922 90) (layer F.SilkS)
       (effects (font (size 1.016 0.762) (thickness 0.1524)))
     )
-    (fp_text user NC (at 0.7874 6.096 90) (layer F.SilkS)
+    (fp_text user NC (at 0.889 6.096 90) (layer F.SilkS)
       (effects (font (size 1.016 0.762) (thickness 0.1524)))
     )
     (fp_text user 9V (at 0.762 4.064 90) (layer F.SilkS)

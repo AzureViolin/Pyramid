@@ -384,7 +384,7 @@ void setupBlueToothConnection()
   
   //If Bluetooth connection is established, top LED blue.
   // Otherwise top LED red.
-  if(digitalRead(A1)){//D5 for Pyramid Shield, A1 for testing
+  if(digitalRead(D5)){//D5 for Pyramid Shield, A1 for testing
           
       RGB_Panel[11][0]=0;
       RGB_Panel[11][1]=0;

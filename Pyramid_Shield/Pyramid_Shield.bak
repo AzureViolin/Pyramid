@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 6/27/2013 17:19:04
+EESchema Schematic File Version 2  date 7/3/2013 12:48:07
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -29,8 +29,8 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:Puzzlebox_Pyramid
-LIBS:Pyramid_Shield-cache
+LIBS:Puzzlebox
+LIBS:Kicad_OSHW
 EELAYER 27 0
 EELAYER END
 $Descr A4 11693 8268

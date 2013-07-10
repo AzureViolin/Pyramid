@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date 7/3/2013 12:53:57
+EESchema Schematic File Version 2  date 7/10/2013 01:09:55
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -37,7 +37,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Puzzlebox_IR_Module"
-Date "28 jun 2013"
+Date "9 jul 2013"
 Rev "0.9b"
 Comp "Puzzlebox Productions LLC"
 Comment1 "GPLv2"
@@ -61,7 +61,7 @@ L R R2
 U 1 1 51CCF97D
 P 9950 4100
 F 0 "R2" V 10030 4100 40  0000 C CNN
-F 1 "82" V 9957 4101 40  0000 C CNN
+F 1 "82R" V 9957 4101 40  0000 C CNN
 F 2 "~" V 9880 4100 30  0000 C CNN
 F 3 "~" H 9950 4100 30  0000 C CNN
 	1    9950 4100
@@ -116,7 +116,7 @@ L R R1
 U 1 1 51CCF9C8
 P 9300 6150
 F 0 "R1" V 9380 6150 40  0000 C CNN
-F 1 "820" V 9307 6151 40  0000 C CNN
+F 1 "820R" V 9307 6151 40  0000 C CNN
 F 2 "~" V 9230 6150 30  0000 C CNN
 F 3 "~" H 9300 6150 30  0000 C CNN
 	1    9300 6150

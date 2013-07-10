@@ -1,11 +1,11 @@
 (export (version D)
   (design
-    (source E:/Projects/internal/Pyramid/Electronics/Pyramid_IR_Module/Pyramid_IR_Module.sch)
-    (date "7/3/2013 12:53:56")
+    (source E:/Projects/Pyramid/Pyramid_IR_Module/Pyramid_IR_Module.sch)
+    (date "7/10/2013 01:10:10")
     (tool "eeschema (2013-05-16 BZR 4016)-stable"))
   (components
     (comp (ref R2)
-      (value 82)
+      (value 82R)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
       (tstamp 51CCF97D))
@@ -30,7 +30,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 51CCF9B9))
     (comp (ref R1)
-      (value 820)
+      (value 820R)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
       (tstamp 51CCF9C8))

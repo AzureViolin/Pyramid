@@ -1,5 +1,5 @@
 "Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
-1;"R7,R3";"SM0603_Resistor";2;"27k";;;
+1;"R7,R3";"SM0603_Resistor";2;"2.1k 1%";;;
 2;"D13";"SOD323";1;"DIODE";;;
 3;"F1";"SM1206";1;"FUSE";;;
 4;"P2";"SIL-6";1;"FTDI";;;
@@ -10,10 +10,10 @@
 9;"D12,D11,D10,D9,D8,D7,D6,D5,D4,D3,D2,D1";"LED_RGB_ComK_SMD5050";12;"LED_RGB";;;
 10;"Q1,Q2,Q3,Q4,Q5,Q6";"SOT23";6;"NPN";;;
 11;"R4";"SM0603_Resistor";1;"10k";;;
-12;"R6,R2";"SM0603_Resistor";2;"15k";;;
-13;"R5,R1";"SM0603_Resistor";2;"13k";;;
+12;"R6,R2";"SM0603_Resistor";2;"1.2k 1%";;;
+13;"R5,R1";"SM0603_Resistor";2;"1.0k 1%";;;
 14;"R13,R12,R11,R10,R9,R8";"SM0603_Resistor";6;"1K";;;
-15;"C3,C2,C4";"SM0603_Capa";3;"0.1uF";;;
+15;"C3,C2,C4";"SM0603_Capa";3;"100nF";;;
 16;"C1";"SM0603_Capa";1;"10uF";;;
 17;"VAL";"Kicad_Puzzlebox_back_l";1;"Kicad_Puzzlebox_back_l";;;
 18;"X1";"Murata_CSTCE_3213";1;"CRYSTAL_MURATA";;;
